@@ -1,0 +1,23 @@
+.container {
+  border: 1px solid rgb(122, 118, 118);
+  width: 200px;
+  border-radius: 5px;
+}
+
+.iptext {
+  margin: 10px;
+  width: 170px;
+  font-size: 25px;
+}
+
+.calc-button {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.calc-button button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
